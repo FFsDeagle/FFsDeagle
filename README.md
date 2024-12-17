@@ -8,7 +8,7 @@
     Website and Webapp for client: https://www.kwf.events
   </li>
   <li>
-    React Native App for creating shopping lists: <a href="https://github.com/FFsDeagle/1Trip">Code</a>
+    React Native App for creating shopping lists: :iphone: <a href="https://github.com/FFsDeagle/1Trip">App</a> :computer: <a href="https://github.com/FFsDeagle/1TripServer">Server</a> 
   </li>
 </ul>
 
