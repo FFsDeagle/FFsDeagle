@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Australia</h3>
+<h3 align="center">A passionate Software Developer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffsdeagle&label=Profile%20views&color=0e75b6&style=flat" alt="ffsdeagle" /> </p>
 
