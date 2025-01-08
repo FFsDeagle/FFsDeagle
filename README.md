@@ -15,7 +15,7 @@
 <h3 align="left">Check out my Porfolio Website Developed using React</h3>
 <ul>
   <li>
-    <p href="www.faridf.dev" target="_blank" >Porfolio Website</p>
+    <a href="www.faridf.dev" target="_blank" >Porfolio Website</a>
   </li>
 </ul>
 
